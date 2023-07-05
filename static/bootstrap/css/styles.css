@@ -1,0 +1,31 @@
+.carousel-inner img{
+    width: 100%;
+    height: 46vw;
+}
+.intro-image{
+    width: 100%;
+}
+.service-card{
+    width: 100%;
+    margin: 10px;
+}
+.footer-row{
+    height: 70vh;
+    background-image: url("../../images/Maternity-Services.jpg");
+    background-size: cover;
+}
+.tenwek-h3{
+    margin-top: 23vw;
+    margin-bottom: 23vw;
+    font-size: 60px;
+}
+.tenwek-history-h3{
+    font-size: 30px;
+    font-weight: bold;
+}
+.a{
+    display: flex;
+}
+.navbar-brand img{
+    height: 80px;
+}
